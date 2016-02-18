@@ -2,7 +2,7 @@
 layout: post
 title:  "Secure JAX-RS API with JWT"
 date:   2016-02-15 14:05:48 -0500
-categories: JAX-RS REST Java JWT Security
+categories: blog
 ---
 Developing RESTful APIs using JAX-RS is not that difficult. However, authentication 
 and authorization of these APIs require additional consideration.  In this article, 
@@ -277,7 +277,7 @@ and examins authentication and applies authorization logic based on the security
 
 The source code can be downloaded from [GitHub].
 
-[GitHub]: https://github.com/anuragsoft/sixturtle/tree/master/jaxrs-jwt-filter "Source Code"
+[GitHub]: https://github.com/sixturtle/examples/tree/master/jaxrs-jwt-filter "Source Code"
 [OpenID Connect]: http://connect2id.com/learn/openid-connect "Open ID Connect Explained"
 [Keycloak]: http://keycloak.jboss.org/ "Red Hat Keycloak"
 [JWT]: https://jwt.io/
