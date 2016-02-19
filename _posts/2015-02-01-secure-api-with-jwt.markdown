@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Secure JAX-RS API with JWT"
-date:   2016-02-15 14:05:48 -0500
+date:   2015-02-01 14:05:48 -0500
 categories: blog
 ---
 Developing RESTful APIs using JAX-RS is not that difficult. However, authentication 
