@@ -3,6 +3,7 @@ layout: post
 title:  "Secure JAX-RS API with JWT"
 date:   2015-02-01 14:05:48 -0500
 categories: blog
+description: Java, JEE, JAX-RS, Web Services, REST, JWT, JSON Web Token, OpenID Connect, OAuth, Security 
 ---
 Developing RESTful APIs using JAX-RS is not that difficult. However, authentication 
 and authorization of these APIs require additional consideration.  In this article, 

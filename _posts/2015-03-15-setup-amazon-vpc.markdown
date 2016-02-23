@@ -3,6 +3,7 @@ layout: post
 title:  "Setup Amazon VPC with Public and Private Subnets"
 date:   2015-03-15 14:05:48 -0500
 categories: blog
+description: Java, JEE, Amazon Virtual Private Cloud, VPC, Networking, Subnets, Public, Private
 ---
 Setting up a virtual private cloud (VPC) in Amazon Web Services (AWS) is not
 supposed to be difficult if we understand following instructions from Amazon
