@@ -68,7 +68,7 @@ Other level of consistency needed is the jars (dependencies). The docker contain
 should be built with a pre-packaged set of dependencies for our service to run.
 Let's call it the base image.
 
-For reference, see: [Sample Project]("https://github.com/sixturtle/examples/tree/master/jee-fuse")
+For reference, see: [Sample Project](https://github.com/sixturtle/examples/tree/master/jee-fuse)
 which has a Gradle build file to produce a build output container WAR + server configuration.
 Let's call it a deployment bundle that can be just copied over to an existing installation of
 Wildfly.
