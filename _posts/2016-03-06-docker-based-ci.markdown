@@ -88,7 +88,7 @@ volume containing deployment bundle to the container's path. Use a
 docker-entrypoint.sh script to copy over the server overlay to existing installation
 of the Wildfly server in the container.
 
-For reference see - [Docker Entrypoint Scrpt]("https://github.com/sixturtle/examples/tree/master/docker/wildfly-ex").
+For reference see - [Docker Entrypoint Scrpt](https://github.com/sixturtle/examples/tree/master/docker/wildfly-ex).
 Also see the [Related Blog](/blog/2015/03/20/one-container-many-envs.html)
 
 ## 3. Consistency
