@@ -4,6 +4,7 @@ title:  "One container for multiple environments"
 date:   2015-03-20 14:05:48 -0500
 categories: blog
 description: Java, JEE, QA, PROD, DEV, Configuration, Docker Container, JBoss Wildfly
+comments: true
 ---
 Docker container provides a better option for packaging an application as a 
 micro-service. It also provides various options to customize the container

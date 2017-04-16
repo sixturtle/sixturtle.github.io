@@ -4,6 +4,7 @@ title:  "Deploy JEE Wildfly Container in ECS manually"
 date:   2015-03-28 10:05:48 -0500
 categories: blog
 description: Java, JEE, EC2 Container Service, Configuration, Docker Container, JBoss Wildfly, Amazon Elastic Beanstalk
+comments: true
 ---
 Amazon EC2 Container Service ([ECS]) is a highly scalable, high performance 
 container management service that supports Docker containers and allows you 

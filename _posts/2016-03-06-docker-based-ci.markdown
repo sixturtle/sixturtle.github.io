@@ -4,6 +4,7 @@ title:  "Docker container based Continuous Integration (CI)"
 date:   2016-03-06 10:05:48 -0500
 categories: blog
 description: Continuous Integration, CI, Java, JEE, EC2 Container Service, Configuration, Docker Container, JBoss Wildfly, Amazon Elastic Beanstalk
+comments: true
 ---
 In this article we are going to take a look at a workflow for building and deploying a
 micro-service using Docker container. The model discussed here focuses on 

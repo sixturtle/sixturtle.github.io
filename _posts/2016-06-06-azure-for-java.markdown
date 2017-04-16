@@ -4,6 +4,7 @@ title:  "Evaluation of Microsoft Azure Cloud for Java/JEE applications"
 date:   2016-06-06 10:05:48 -0500
 categories: blog
 description: Java, JEE, JBoss Wildfly, Microsoft Azure, Azure App Service, Azure Container Service, Nomad, Apache Mesos 
+comments: true
 ---
 The purpose of this article is to describe the outcome of evaluation of Azure Cloud services for deployment of a JEE application.
 

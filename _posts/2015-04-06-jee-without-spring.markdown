@@ -4,6 +4,7 @@ title:  "JEE Development without Spring Framework"
 date:   2015-04-06 10:05:48 -0500
 categories: blog
 description: Java, JEE, Spring Framework, REST, JAX-RS, JPA, ORM, Undertow Servlet, RestEasy, DbUnit, WireMock
+comments: true
 ---
 This is an interesting article as it compares Spring Framework with
 Java Enterprise Edition. It may become a debatable topic and may upset many

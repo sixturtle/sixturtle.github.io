@@ -4,6 +4,7 @@ title:  "Deploy JEE Wildfly Container in ECS using Elastic Beanstalk"
 date:   2015-03-28 14:05:48 -0500
 categories: blog
 description: Java, JEE, QA, PROD, DEV, Configuration, Docker Container, JBoss Wildfly, Amazon Elastic Beanstalk
+comments: true
 ---
 Amazon [Elastic Beanstalk] provides various pre-configured application 
 environments for rapid application development. Among those are Python,
